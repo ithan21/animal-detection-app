@@ -1,6 +1,6 @@
 streamlit
 ultralytics
-opencv-python-headless
+opencv-python-headless    # ← KEY FIX: replace opencv-python with this
 Pillow
 numpy
 pandas
