@@ -11,7 +11,6 @@ import pandas as pd
 # PAGE CONFIGURATION
 # ============================================================
 st.set_page_config(
-# ... (ipagpatuloy mo na lang ang natitirang code, walang changes)
     page_title="🐾 Animal Detection App",
     page_icon="🐾",
     layout="wide",
