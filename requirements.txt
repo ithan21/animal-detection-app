@@ -1,6 +1,6 @@
-opencv-python-headless
-ultralytics
 streamlit
+ultralytics
 Pillow
 numpy
 pandas
+opencv-python-headless
