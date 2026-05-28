@@ -1,0 +1,19 @@
+============================================================
+ANIMAL DETECTION MODEL - TRAINING METRICS REPORT
+============================================================
+
+Model: YOLOv8n (nano)
+Dataset: Animal Detection (Rat, Rat_Cat_Dog, cat, dog)
+
+Overall Metrics:
+  Precision:      0.8338 (83.38%)
+  Recall:         0.7397 (73.97%)
+  mAP@0.5:        0.8292 (82.92%)
+  mAP@0.5:0.95:   0.4576 (45.76%)
+
+Per-Class Metrics (AP@0.5):
+  Rat            : 0.8085 (80.85%)
+  Rat_Cat_Dog    : 0.7916 (79.16%)
+  cat            : 0.8873 (88.73%)
+
+============================================================
